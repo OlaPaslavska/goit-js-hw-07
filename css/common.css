@@ -65,7 +65,7 @@ ul {
   flex-wrap: wrap;
   gap: 24px;
   row-gap: 48px;
-  justify-content: center;
+  align-content: center;
 }
 .gallery-image {
   width: 360px;
